@@ -27,8 +27,10 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-- <b>Certifications & Diploma</b>
-  - [WGU-Diploma-BSCIA.pdf](https://github.com/user-attachments/files/16874623/WGU-Diploma-BSCIA.pdf)
+
+<h2>👨‍🎓Certifications & Diploma</h2>
+
+  -  [WGU-Diploma-BSCIA.pdf](https://github.com/user-attachments/files/16874623/WGU-Diploma-BSCIA.pdf)
   -  [CompTIA CySA+ ce certificate.pdf](https://github.com/user-attachments/files/16874625/CompTIA.CySA%2B.ce.certificate.pdf)
   -  [CompTIA PenTest+ ce certificate.pdf](https://github.com/user-attachments/files/16874633/CompTIA.PenTest%2B.ce.certificate.pdf)
   -  [CompTIA Security+ ce certificate.pdf](https://github.com/user-attachments/files/16874634/CompTIA.Security%2B.ce.certificate.pdf)
@@ -37,11 +39,10 @@
   -  [CompTIA Project+ certificate.pdf](https://github.com/user-attachments/files/16874674/CompTIA.Project%2B.certificate.pdf)
   -  [ITILcertification.pdf](https://github.com/user-attachments/files/16874677/ITILcertification.pdf)
   -  [LinuxEssentials(LPI).pdf](https://github.com/user-attachments/files/16874681/LinuxEssentials.LPI.pdf)
-  -   ![SSCP-ISC2-IDnumber=2083514](https://github.com/user-attachments/assets/9c0e6fce-630b-4b9e-a110-27b82aa7605e)
-  -   ![AssociateISC2-CCSP-ISC2idnumber=2083514](https://github.com/user-attachments/assets/dc273176-7a5b-4468-88b1-32ee8d74e7f3)
+  -  [SSCP-ISC2-IDnumber=2083514](https://github.com/user-attachments/assets/9c0e6fce-630b-4b9e-a110-27b82aa7605e)
+  -  [AssociateISC2-CCSP-ISC2idnumber=2083514](https://github.com/user-attachments/assets/dc273176-7a5b-4468-88b1-32ee8d74e7f3)
 
-
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Cybersecurity YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
@@ -51,18 +52,12 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/travis-m-patt
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TravisPatt/TravisPatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
