@@ -4,7 +4,7 @@
 
 - <b>Splunk Log Analysis</b>
   - This is a Take-home assignment from a prospective employer where they had SOC Analyst Candidates Download Splunk (free), set it up, and Parse through 4 Log files (.csv) to find any irregular activity. Findings are presented in Powerpoint format. Assignment & Log files included! I would suggest Downloading the files first and trying it out on your own before viewing the Powerpoint (ChatGPT can help). <b> This is great practice for learning Splunk and practicing SPL Queries! </b>
-  - [Novacoast Take-Home Technical.pptx](https://github.com/user-attachments/files/16875023/Novacoast.Take-Home.Technical.pptx)
+  - [Novacoast Take-Home Technical.pptx](https://github.com/user-attachments/files/16875288/Novacoast.Take-Home.Technical.pptx)
   - Assignment & Log files: 
   [1337Corp Log Analysis Instructions.docx](https://github.com/user-attachments/files/16875151/1337Corp.Log.Analysis.Instructions.docx)
 
