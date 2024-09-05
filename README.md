@@ -1,5 +1,5 @@
-<h1>Hi, I'm Travis! <br/><a href="https://www.linkedin.com/in/travis-m-patt/">Cybersecurity Professional</a>
-
+<h1>Hi, I'm Travis! <br><a href="https://www.linkedin.com/in/travis-m-patt/">Cybersecurity Professional</a>
+  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [<b>Splunk Log Analysis</b>](https://github.com/TravisPatt/Splunk-Log-Analysis/tree/main)
